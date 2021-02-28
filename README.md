@@ -9,7 +9,7 @@ Meu repositório de **Modelagem e Implementação de Software.** MIS é uma disc
 Como diria Gandalf, O Cinzento:
 > Tudo o que temos de decidir é o que fazer com o tempo que nos é dado.
 
-![Gandalf](https://images.app.goo.gl/osryW6XGwgb1GEqh6)
+![Gandalf](https://cdna.artstation.com/p/assets/images/images/004/966/196/medium/hossein-diba-1.jpg?1487536028)
 
 Nesta disciplina eu irei aprender mais sobre:
 
